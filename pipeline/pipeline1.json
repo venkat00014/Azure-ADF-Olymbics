@@ -3,8 +3,8 @@
 	"properties": {
 		"activities": [
 			{
-				"name": "Azure Function1",
-				"type": "AzureFunctionActivity",
+				"name": "Lookup1",
+				"type": "Lookup",
 				"dependsOn": [],
 				"policy": {
 					"timeout": "0.12:00:00",
