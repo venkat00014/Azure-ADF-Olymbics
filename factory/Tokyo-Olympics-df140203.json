@@ -1,0 +1,9 @@
+{
+	"name": "Tokyo-Olympics-df140203",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d0f8d436-9046-40c9-b52d-6e78ca83b857",
+		"tenantId": "541f16ad-2ba9-44de-aef9-d265eb285a0e"
+	}
+}
